@@ -14,7 +14,7 @@ This project demonstrates an Express.js web server with routing and middleware c
 ## Project Structure
 
 ```
-starter/
+Workshop03_Express
 ├── server.js                 # Main Express server file
 ├── package.json             # Project configuration with dependencies
 ├── public/                  # Public directory for static files
@@ -26,6 +26,7 @@ starter/
 │   └── styles/
 │       └── style.css       # Stylesheet
 └── .gitignore              # Git ignore file
+└── README.md               # Documentation file
 ```
 
 ## Installation
