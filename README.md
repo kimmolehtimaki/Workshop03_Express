@@ -8,7 +8,7 @@ This project demonstrates an Express.js web server with routing and middleware c
 ✅ **Task 2**: Static files served using `express.static()` middleware  
 ✅ **Task 3**: Route handlers for HTML pages (index, about, contact)  
 ✅ **Task 4**: `/api/time` JSON endpoint returning current date/time
-   - Solution commented out to demonstrate bonus task
+   - Solution commented out to demonstrate bonus task  
 ✅ **Task 5**: Custom error handling middleware (404 and 500)  
 ✅ **Task 6** (Bonus): Routes organized using Express Router  
 
