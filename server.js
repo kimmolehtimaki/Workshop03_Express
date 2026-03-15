@@ -90,7 +90,7 @@ apiRouter.get('/time', (req, res) => {
     res.json({
         // manipulating Date-object to return local time and format
         // earlier API endpoint routing commented out in order to handle requests via Expreess Router
-        time: new Date().toLocaleString('fi-FI'),
+        datetime: new Date().toLocaleString('fi-FI'),
         timestamp: Date.now()
     });
 });

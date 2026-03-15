@@ -159,7 +159,7 @@ app.use((err, req, res, next) => {
 **GET /api/time**
 ```json
 {
-  "datetime": "2026-01-28T13:00:00.000Z",
+  "datetime": "15.3.2026 klo 00.00.00",
   "timestamp": 1738065600000
 }
 ```
